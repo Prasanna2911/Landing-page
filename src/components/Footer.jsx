@@ -5,7 +5,7 @@ export function Footer() {
       <div className="container mx-auto px-6">
         <div className="text-center">
           <p className="text-gray-400 font-bold">
-            &copy; 2025 Your Brand. All rights reserved.
+            &copy; 2025 Indolike. All rights reserved.
           </p>
         </div>
       </div>

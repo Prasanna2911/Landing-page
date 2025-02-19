@@ -9,9 +9,8 @@ export function Contact() {
             type="email"
             placeholder="Enter your email"
             className="w-full p-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-600"
-            required
-            pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"
             title="Please enter a valid email address"
+            required
           />
           <a href="mailto:abcd@gmail.com">
             <button
